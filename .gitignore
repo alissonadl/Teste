@@ -1,0 +1,4 @@
+#esses arquivos não vão ser mostrado no repositório.
+
+__pycache__/
+venv/
